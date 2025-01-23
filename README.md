@@ -1,7 +1,6 @@
 # React + Vite
 # Componente botón reutilizable con estilos configurables
 
-/*
 *****NOTA: En los siguientes casos, todos los estilos deben ser con tailwindcss*****
 
 text: Representa el contenido del botón (texto)
@@ -14,4 +13,3 @@ ancho: Representa el valor del ancho que puede tomar del botón. Ejemplo: 'w-40'
 
 cursor: Representa el valor del cursor que puede tomar del botón. Ejemplo: 'cursor-pointer'
 
-*/
