@@ -1,8 +1,17 @@
 # React + Vite
+# Componente botón reutilizable con estilos configurables
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+/*
+*****NOTA: En los siguientes casos, todos los estilos deben ser con tailwindcss*****
 
-Currently, two official plugins are available:
+text: Representa el contenido del botón (texto)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+color: Representa el color de fondo del botón. Ejemplo: 'bg-violet-400'
+
+alto: Representa el valor del alto que puede tomar del botón. Ejemplo: 'h-10'
+
+ancho: Representa el valor del ancho que puede tomar del botón. Ejemplo: 'w-40'
+
+cursor: Representa el valor del cursor que puede tomar del botón. Ejemplo: 'cursor-pointer'
+
+*/
